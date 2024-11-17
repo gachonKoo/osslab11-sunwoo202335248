@@ -1,4 +1,4 @@
-import geo.utils as utils
+import utils as utils
 
 # Calculate the length of the hypotenuse (c) when a=3 and b=4
 a, b = 3, 4
